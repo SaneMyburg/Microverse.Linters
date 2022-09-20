@@ -1,0 +1,23 @@
+{
+  "name": "linters.htmlandcss",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SaneMyburg/Microverse.Linters.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SaneMyburg/Microverse.Linters/issues"
+  },
+  "homepage": "https://github.com/SaneMyburg/Microverse.Linters#readme",
+  "devDependencies": {
+    "hint": "^7.1.2"
+  }
+}
